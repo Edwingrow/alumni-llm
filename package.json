@@ -1,5 +1,5 @@
 {
-  "name": "alumni-llm-solution",
+  "name": "alumni-llm",
   "version": "1.0.0",
   "description": "Example LLM chatbot to support a student help solution.",
   "main": "server.js",
