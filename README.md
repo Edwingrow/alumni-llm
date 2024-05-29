@@ -20,3 +20,7 @@ No estoy usando la de ustedes ya que vi que ya están usando un assistant y no q
 El backend crea su propio threads para cada usuario y crea el assistant_id.
 Tener en cuenta eso ya que en la función de createRunUseCase pasa las instrucciones y puedo remplazar el contexto.
 No es la mejor forma de trabajarlo pero quiero pulir el trabajo que hago con el assistant, además que ya tenia la información del estudiante proveido por ustedes.
+
+
+## Como usar
+Me tome el tiempo de subirlo a un srv y lo pueden probar con mis credenciales si así lo prefieren: http://vps-4122712-x.dattaweb.com:3000/
