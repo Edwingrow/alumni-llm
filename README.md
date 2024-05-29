@@ -23,7 +23,7 @@ No es la mejor forma de trabajarlo pero quiero pulir el trabajo que hago con el 
 
 
 ## Como usar
-Me tome el tiempo de subirlo a un srv y lo pueden probar con mis credenciales si así lo prefieren: http://vps-4122712-x.dattaweb.com:3000/
+Me tome el tiempo de subirlo a un srv y lo pueden probar con mi Token si así lo prefieren: http://vps-4122712-x.dattaweb.com:3000/
 
 
 
